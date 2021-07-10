@@ -16,6 +16,6 @@ int main() {
     int a = 5;
     cout << &a << endl;
     int * ptr;
-    cout << "hello" << endl;
+    cout << "hello from xps13" << endl;
     return 0;
 }
