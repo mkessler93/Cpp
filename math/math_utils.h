@@ -1,5 +1,5 @@
-#ifndef MATH_UTILS
-#define MATH_UTILS
+#ifndef MATH_UTILS_H
+#define MATH_UTILS_H
 
 struct Rectangle {
 

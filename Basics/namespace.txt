@@ -1,0 +1,11 @@
+namespace utilz {
+
+    double mult();
+}
+
+utilz::mult();
+
+group things...
+1) common functionality
+2) a paricular project
+3) classifying/categories

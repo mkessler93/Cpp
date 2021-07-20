@@ -1,0 +1,11 @@
+1) Header file "declarations"
+--> example.h
+--> preproccessor directive ==> #ifndef EXAMPLE_H(include it only once in all .cpp files)
+                                #define EXAMPLE_H
+
+                                #endif
+2) implementation file "definitions"
+--> example.cpp
+3) main file --> only one!! only neccesary for executables "calling
+
+g++ file1.cpp file2.cpp --> compile a.out
