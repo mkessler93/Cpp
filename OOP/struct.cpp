@@ -11,7 +11,7 @@ struct User{
         return status;
     }
     private:
-        std::string status = "Gold";
+        std::string status = "Silver";
 
 
 };
